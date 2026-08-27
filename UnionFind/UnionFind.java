@@ -1,17 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package unionfind;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 
-/**
- *
- * @author goodo
- */
+
 public class UnionFind<E> {
 
     public ArrayList<HashSet<E>> sets = new ArrayList();

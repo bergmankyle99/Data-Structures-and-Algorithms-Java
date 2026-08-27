@@ -1,12 +1,4 @@
-package skysthelimit;
 
-
-
-
-/**
- *
- * @author goodo
- */
 import java.util.*;
 
 

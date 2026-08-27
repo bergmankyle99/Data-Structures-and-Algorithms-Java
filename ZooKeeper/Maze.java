@@ -1,16 +1,9 @@
-package zookeeper;
-
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Random;
-import static zookeeper.ZooKeeperDriver.uf;
 
-/**
- *
- * @author goodo
- */
 public class Maze {
 
     public boolean[][] maze;

@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- *
- * @author goodo
- */
 public class FinalExamDriver {
 
     public static void main(String[] args) {

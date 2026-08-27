@@ -1,6 +1,3 @@
-package findnegatives;
-
-import static findnegatives.FindNegatives.findNegatives;
 import java.util.Random;
 
 public class FindNegatives {

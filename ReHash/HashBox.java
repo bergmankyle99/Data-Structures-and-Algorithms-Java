@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package rehash;
 
-/**
- *
- * @author goodo
- */
 public class HashBox<K, V> {
 
     final private int hash_table_size = 5;

@@ -1,10 +1,6 @@
 
 import java.util.*;
 
-/**
- *
- * @author John
- */
 public class UnionFindExampleDriver {
 
     /**
