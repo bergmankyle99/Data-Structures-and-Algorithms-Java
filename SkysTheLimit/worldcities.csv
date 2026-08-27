@@ -1,0 +1,378 @@
+Berlin,Buenos Aires,7402
+Berlin,Cairo,1795
+Berlin,Calcutta,4368
+Berlin,Cape Town,5981
+Berlin,Caracas,5247
+Berlin,Chicago,4405
+Buenos Aires,Cairo,7345
+Buenos Aires,Calcutta,10265
+Buenos Aires,Cape Town,4269
+Buenos Aires,Caracas,3168
+Buenos Aires,Chicago,5598
+Cairo,Calcutta,3539
+Cairo,Cape Town,4500
+Cairo,Caracas,6338
+Cairo,Chicago,6129
+Calcutta,Cape Town,6024
+Calcutta,Caracas,9605
+Calcutta,Chicago,7980
+Cape Town,Caracas,6365
+Cape Town,Chicago,8494
+Caracas,Chicago,2501
+Hong Kong,Berlin,5440
+Hong Kong,Buenos Aires,11472
+Hong Kong,Cairo,5061
+Hong Kong,Calcutta,1648
+Hong Kong,Cape Town,7375
+Hong Kong,Caracas,10167
+Hong Kong,Chicago,7793
+Honolulu,Berlin,7309
+Honolulu,Buenos Aires,7561
+Honolulu,Cairo,8838
+Honolulu,Calcutta,7047
+Honolulu,Cape Town,11534
+Honolulu,Caracas,6013
+Honolulu,Chicago,4250
+Istanbul,Berlin,1078
+Istanbul,Buenos Aires,7611
+Istanbul,Cairo,768
+Istanbul,Calcutta,3638
+Istanbul,Cape Town,5154
+Istanbul,Caracas,6048
+Istanbul,Chicago,5477
+Lisbon,Berlin,1436
+Lisbon,Buenos Aires,5956
+Lisbon,Cairo,2363
+Lisbon,Calcutta,5638
+Lisbon,Cape Town,5325
+Lisbon,Caracas,4041
+Lisbon,Chicago,3990
+London,Berlin,579
+London,Buenos Aires,6916
+London,Cairo,2181
+London,Calcutta,4947
+London,Cape Town,6012
+London,Caracas,4660
+London,Chicago,3950
+Los Angeles,Berlin,5724
+Los Angeles,Buenos Aires,6170
+Los Angeles,Cairo,7520
+Los Angeles,Calcutta,8090
+Los Angeles,Cape Town,9992
+Los Angeles,Caracas,3632
+Los Angeles,Chicago,1745
+Manila,Berlin,6132
+Manila,Buenos Aires,11051
+Manila,Cairo,5704
+Manila,Calcutta,2203
+Manila,Cape Town,7486
+Manila,Caracas,10620
+Manila,Chicago,8143
+Mexico City,Berlin,6047
+Mexico City,Buenos Aires,4592
+Mexico City,Cairo,7688
+Mexico City,Calcutta,9492
+Mexico City,Cape Town,8517
+Mexico City,Caracas,2232
+Mexico City,Chicago,1691
+Montreal,Berlin,3729
+Montreal,Buenos Aires,5615
+Montreal,Cairo,5414
+Montreal,Calcutta,7607
+Montreal,Cape Town,7931
+Montreal,Caracas,2449
+Montreal,Chicago,744
+Moscow,Berlin,1004
+Moscow,Buenos Aires,8376
+Moscow,Cairo,1803
+Moscow,Calcutta,3321
+Moscow,Cape Town,6300
+Moscow,Caracas,6173
+Moscow,Chicago,4974
+New York,Berlin,3965
+New York,Buenos Aires,5297
+New York,Cairo,5602
+New York,Calcutta,7918
+New York,Cape Town,7764
+New York,Caracas,2132
+New York,Chicago,713
+Paris,Berlin,545
+Paris,Buenos Aires,6870
+Paris,Cairo,1995
+Paris,Calcutta,4883
+Paris,Cape Town,5807
+Paris,Caracas,4736
+Paris,Chicago,4134
+Rio de Janeiro,Berlin,6220
+Rio de Janeiro,Buenos Aires,1200
+Rio de Janeiro,Cairo,6146
+Rio de Janeiro,Calcutta,9377
+Rio de Janeiro,Cape Town,3773
+Rio de Janeiro,Caracas,2810
+Rio de Janeiro,Chicago,5296
+Rome,Berlin,734
+Rome,Buenos Aires,6929
+Rome,Cairo,1320
+Rome,Calcutta,4482
+Rome,Cape Town,5249
+Rome,Caracas,5196
+Rome,Chicago,4808
+San Francisco,Berlin,5661
+San Francisco,Buenos Aires,6467
+San Francisco,Cairo,7364
+San Francisco,Calcutta,7814
+San Francisco,Cape Town,10247
+San Francisco,Caracas,3904
+San Francisco,Chicago,1858
+Shanghai,Berlin,5218
+Shanghai,Buenos Aires,12201
+Shanghai,Cairo,5183
+Shanghai,Calcutta,2117
+Shanghai,Cape Town,8061
+Shanghai,Caracas,9501
+Shanghai,Chicago,7061
+Stockholm,Berlin,504
+Stockholm,Buenos Aires,7808
+Stockholm,Cairo,2111
+Stockholm,Calcutta,4195
+Stockholm,Cape Town,6444
+Stockholm,Caracas,5420
+Stockholm,Chicago,4278
+Sydney,Berlin,10006
+Sydney,Buenos Aires,7330
+Sydney,Cairo,8952
+Sydney,Calcutta,5685
+Sydney,Cape Town,6843
+Sydney,Caracas,9513
+Sydney,Chicago,9272
+Tokyo,Berlin,5540
+Tokyo,Buenos Aires,11408
+Tokyo,Cairo,5935
+Tokyo,Calcutta,3194
+Tokyo,Cape Town,9156
+Tokyo,Caracas,8799
+Tokyo,Chicago,6299
+Warsaw,Berlin,320
+Warsaw,Buenos Aires,7662
+Warsaw,Cairo,1630
+Warsaw,Calcutta,4048
+Warsaw,Cape Town,5958
+Warsaw,Caracas,5517
+Warsaw,Chicago,4667
+Washington,Berlin,4169
+Washington,Buenos Aires,5218
+Washington,Cairo,5800
+Washington,Calcutta,8084
+Washington,Cape Town,7901
+Washington,Caracas,2059
+Washington,Chicago,597
+Hong Kong,Honolulu,5549
+Hong Kong,Istanbul,4984
+Hong Kong,Lisbon,6853
+Hong Kong,London,5982
+Hong Kong,Los Angeles,7195
+Hong Kong,Manila,693
+Honolulu,Istanbul,8109
+Honolulu,Lisbon,7820
+Honolulu,London,7228
+Honolulu,Los Angeles,2574
+Honolulu,Manila,5299
+Istanbul,Lisbon,2012
+Istanbul,London,1552
+Istanbul,Los Angeles,6783
+Istanbul,Manila,5664
+Lisbon,London,985
+Lisbon,Los Angeles,5621
+Lisbon,Manila,7546
+London,Los Angeles,5382
+London,Manila,6672
+Los Angeles,Manila,7261
+Mexico City,Hong Kong,8782
+Mexico City,Honolulu,3779
+Mexico City,Istanbul,7110
+Mexico City,Lisbon,5390
+Mexico City,London,5550
+Mexico City,Los Angeles,1589
+Mexico City,Manila,8835
+Montreal,Hong Kong,7729
+Montreal,Honolulu,4910
+Montreal,Istanbul,4789
+Montreal,Lisbon,3246
+Montreal,London,3282
+Montreal,Los Angeles,2427
+Montreal,Manila,8186
+Moscow,Hong Kong,4439
+Moscow,Honolulu,7037
+Moscow,Istanbul,1091
+Moscow,Lisbon,2427
+Moscow,London,1555
+Moscow,Los Angeles,6003
+Moscow,Manila,5131
+New York,Hong Kong,8054
+New York,Honolulu,4964
+New York,Istanbul,4975
+New York,Lisbon,3364
+New York,London,3458
+New York,Los Angeles,2451
+New York,Manila,8498
+Paris,Hong Kong,5985
+Paris,Honolulu,7438
+Paris,Istanbul,1400
+Paris,Lisbon,904
+Paris,London,213
+Paris,Los Angeles,5588
+Paris,Manila,6677
+Rio de Janeiro,Hong Kong,11021
+Rio de Janeiro,Honolulu,8285
+Rio de Janeiro,Istanbul,6389
+Rio de Janeiro,Lisbon,4796
+Rio de Janeiro,London,5766
+Rio de Janeiro,Los Angeles,6331
+Rio de Janeiro,Manila,11259
+Rome,Hong Kong,5768
+Rome,Honolulu,8022
+Rome,Istanbul,843
+Rome,Lisbon,1161
+Rome,London,887
+Rome,Los Angeles,6732
+Rome,Manila,6457
+San Francisco,Hong Kong,6897
+San Francisco,Honolulu,2393
+San Francisco,Istanbul,6703
+San Francisco,Lisbon,5666
+San Francisco,London,5357
+San Francisco,Los Angeles,347
+San Francisco,Manila,6967
+Shanghai,Hong Kong,764
+Shanghai,Honolulu,4941
+Shanghai,Istanbul,4962
+Shanghai,Lisbon,6654
+Shanghai,London,5715
+Shanghai,Los Angeles,6438
+Shanghai,Manila,1150
+Stockholm,Hong Kong,5113
+Stockholm,Honolulu,6862
+Stockholm,Istanbul,1348
+Stockholm,Lisbon,1856
+Stockholm,London,890
+Stockholm,Los Angeles,5454
+Stockholm,Manila,5797
+Sydney,Hong Kong,4584
+Sydney,Honolulu,4943
+Sydney,Istanbul,9294
+Sydney,Lisbon,11302
+Sydney,London,10564
+Sydney,Los Angeles,7530
+Sydney,Manila,3944
+Tokyo,Hong Kong,1794
+Tokyo,Honolulu,3853
+Tokyo,Istanbul,5560
+Tokyo,Lisbon,6915
+Tokyo,London,5940
+Tokyo,Los Angeles,5433
+Tokyo,Manila,1866
+Warsaw,Hong Kong,5144
+Warsaw,Honolulu,7355
+Warsaw,Istanbul,863
+Warsaw,Lisbon,1715
+Warsaw,London,899
+Warsaw,Los Angeles,5922
+Warsaw,Manila,5837
+Washington,Hong Kong,8147
+Washington,Honolulu,4519
+Washington,Istanbul,5215
+Washington,Lisbon,3562
+Washington,London,3663
+Washington,Los Angeles,2300
+Washington,Manila,8562
+Mexico City,Montreal,2318
+Mexico City,Moscow,6663
+Mexico City,New York,2094
+Mexico City,Paris,5716
+Mexico City,Rio de Janeiro,4771
+Mexico City,Rome,6366
+Montreal,Moscow,4386
+Montreal,New York,320
+Montreal,Paris,3422
+Montreal,Rio de Janeiro,5097
+Montreal,Rome,4080
+Moscow,New York,4665
+Moscow,Paris,1544
+Moscow,Rio de Janeiro,7175
+Moscow,Rome,1474
+New York,Paris,3624
+New York,Rio de Janeiro,4817
+New York,Rome,4281
+Paris,Rio de Janeiro,5699
+Paris,Rome,697
+Rio de Janeiro,Rome,5684
+San Francisco,Mexico City,1887
+San Francisco,Montreal,2539
+San Francisco,Moscow,5871
+San Francisco,New York,2571
+San Francisco,Paris,5558
+San Francisco,Rio de Janeiro,6621
+San Francisco,Rome,6240
+Shanghai,Mexico City,8022
+Shanghai,Montreal,7053
+Shanghai,Moscow,4235
+Shanghai,New York,7371
+Shanghai,Paris,5754
+Shanghai,Rio de Janeiro,11336
+Shanghai,Rome,5677
+Stockholm,Mexico City,5959
+Stockholm,Montreal,3667
+Stockholm,Moscow,762
+Stockholm,New York,3924
+Stockholm,Paris,958
+Stockholm,Rio de Janeiro,6651
+Stockholm,Rome,1234
+Sydney,Mexico City,8052
+Sydney,Montreal,9954
+Sydney,Moscow,9012
+Sydney,New York,9933
+Sydney,Paris,10544
+Sydney,Rio de Janeiro,8306
+Sydney,Rome,10136
+Tokyo,Mexico City,7021
+Tokyo,Montreal,6383
+Tokyo,Moscow,4647
+Tokyo,New York,6740
+Tokyo,Paris,6034
+Tokyo,Rio de Janeiro,11533
+Tokyo,Rome,6135
+Warsaw,Mexico City,6365
+Warsaw,Montreal,4009
+Warsaw,Moscow,715
+Warsaw,New York,4344
+Warsaw,Paris,849
+Warsaw,Rio de Janeiro,6467
+Warsaw,Rome,817
+Washington,Mexico City,1887
+Washington,Montreal,488
+Washington,Moscow,4858
+Washington,New York,205
+Washington,Paris,3829
+Washington,Rio de Janeiro,4796
+Washington,Rome,4434
+San Francisco,Shanghai,6140
+San Francisco,Stockholm,5361
+San Francisco,Sydney,7416
+San Francisco,Tokyo,5135
+San Francisco,Warsaw,5841
+San Francisco,Washington,2442
+Shanghai,Stockholm,4825
+Shanghai,Sydney,4899
+Shanghai,Tokyo,1097
+Shanghai,Warsaw,4951
+Shanghai,Washington,7448
+Stockholm,Sydney,9696
+Stockholm,Tokyo,5051
+Stockholm,Warsaw,501
+Stockholm,Washington,4123
+Sydney,Tokyo,4866
+Sydney,Warsaw,9696
+Sydney,Washington,9758
+Tokyo,Warsaw,5249
+Tokyo,Washington,6772
+Warsaw,Washington,4457

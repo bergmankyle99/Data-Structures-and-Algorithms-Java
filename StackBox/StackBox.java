@@ -1,0 +1,48 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package stackbox;
+
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+
+/**
+ *
+ * @author goodo
+ */
+public class StackBox<E>{
+
+   ArrayList<E>stack = new ArrayList<E>();
+   
+   public boolean isEmpty(){
+       return stack.isEmpty();
+   }
+   public E push(E item){
+       stack.add(item);
+       return item;
+   }
+   public E pop() throws EmptyStackException{
+       E item = (E)"";
+       try{
+            item = stack.remove(stack.size()-1);
+       }
+       catch(EmptyStackException e){
+           System.out.println("Stack is Empty");
+       }
+       return item;
+   }
+   public E peek() throws EmptyStackException{
+       E item = (E)"";
+       try{
+           item = stack.get(stack.size()-1);
+       }
+       catch(EmptyStackException e){
+           System.out.println("Stack is Empty");
+       }
+       return item;
+   }
+   
+   
+}
