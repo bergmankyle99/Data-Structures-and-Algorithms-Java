@@ -1,4 +1,4 @@
-
+package ReHash;
 public class LinkedListNode<K, V> {
 
     public K key;

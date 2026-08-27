@@ -1,4 +1,4 @@
-
+package Solitare;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;

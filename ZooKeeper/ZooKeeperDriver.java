@@ -1,10 +1,10 @@
-
+package ZooKeeper;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Set;
-
+import static ZooKeeper.Maze.animalList;
 public class ZooKeeperDriver {
 
     public static UnionFind<String> uf;

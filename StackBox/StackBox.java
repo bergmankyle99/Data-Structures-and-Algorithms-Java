@@ -1,11 +1,7 @@
-
+package StackBox;
 import java.util.ArrayList;
 import java.util.EmptyStackException;
 
-/**
- *
- * @author goodo
- */
 public class StackBox<E>{
 
    ArrayList<E>stack = new ArrayList<E>();

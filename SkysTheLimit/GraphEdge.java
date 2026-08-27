@@ -1,4 +1,4 @@
-
+package SkysTheLimit;
 public class GraphEdge<V> implements Comparable<GraphEdge> {
     public V v1;
     public V v2;

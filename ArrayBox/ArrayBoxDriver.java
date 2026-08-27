@@ -1,8 +1,5 @@
 import java.util.Scanner;
-/**
- *
- * @author goodo
- */
+
 public class ArrayBoxDriver extends ArrayBox{
     public static void main(String[] args){
             mainMenu();    

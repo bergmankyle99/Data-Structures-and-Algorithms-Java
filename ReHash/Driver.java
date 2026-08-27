@@ -1,4 +1,5 @@
 
+package ReHash;
 import java.util.Scanner;
 
 public class Driver {

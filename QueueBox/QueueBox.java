@@ -1,5 +1,4 @@
-
-
+package QueueBox;
 public class QueueBox<E>{
     public E[] elements = (E[])(new Object[5]);
     private int front_idx = 0;

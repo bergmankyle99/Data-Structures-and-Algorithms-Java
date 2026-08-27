@@ -1,3 +1,4 @@
+package FindNegatives;
 import java.util.Random;
 
 public class FindNegatives {

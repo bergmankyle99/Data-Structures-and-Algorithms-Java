@@ -1,9 +1,9 @@
+package ZooKeeper;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Random;
-
 public class Maze {
 
     public boolean[][] maze;
@@ -97,12 +97,12 @@ public class Maze {
                     System.out.printf(color + "%-3s" + ANSI_RESET, in_set == null ? "#" : in_set);
                 } else {
                     regionList.add(in_set);
-                    if ((i + "," + j).equals(SetHead(in_set))) {
+                    if ((i + "," + j).equals(SetHead(uf, in_set))) {
                         System.out.printf(color + "%-3s" + ANSI_RESET, in_set == null ? "#" : in_set);
                     } else {
                         if (regionsWithAnimals.contains(uf.find(i + "," + j))) {
                             String animal = "";
-                            ArrayList<String> list = randomize(in_set, animalCount.get(regionsWithAnimals.indexOf(in_set)));
+                            ArrayList<String> list = randomize(uf, in_set, animalCount.get(regionsWithAnimals.indexOf(in_set)));
                             for (int g = 0; g < list.size(); g++) {
                                 if ((i + "," + j).equals(list.get(g))) {
                                     animal = animalList.get(regionsWithAnimals.indexOf(in_set));
@@ -120,7 +120,7 @@ public class Maze {
         }
     }
 
-    public static String SetHead(int area) {
+    public static String SetHead(UnionFind<String> uf, int area) {
         HashSet<String> set = new HashSet<String>();
         set.addAll(uf.sets.get(area));
         Iterator<String> itr = set.iterator();
@@ -159,7 +159,7 @@ public class Maze {
 
     }
 
-    public static ArrayList randomize(int area, int amt) {
+    public static ArrayList randomize(UnionFind<String> uf, int area, int amt) {
         HashSet<String> set = new HashSet<String>();
         set.addAll(uf.sets.get(area));
         Iterator<String> itr = set.iterator();

@@ -1,4 +1,4 @@
-
+package ReHash;
 public class HashBox<K, V> {
 
     final private int hash_table_size = 5;
